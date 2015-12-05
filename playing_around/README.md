@@ -1,6 +1,6 @@
 
-- Start server using Escher.
+- Need Escher to start server
 
-- Gadfly graph in examples/twitterTest.jl
+- Gadfly graph in twitterTest.jl
 
 
